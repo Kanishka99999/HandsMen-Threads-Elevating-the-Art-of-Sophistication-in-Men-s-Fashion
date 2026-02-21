@@ -74,12 +74,5 @@ Important metadata was retrieved using Salesforce CLI and is organized under:
 force-app/ └── main/ └── default/ ├── objects/ ├── classes/ ├── triggers/ ├── flows/ ├── layouts/ ├── profiles/ └── email/
 
 📽️ Click here to watch the demo video
-[![Watch Demo](https://img.shields.io/badge/📽️%20Click%20Here-Watch%20Demo-success?style=for-the-badge)](https://drive.google.com/file/d/1ke3ElNlMFDCw2ti5cob9mrmOp20mVMEb/view)
-📄 Click here to read the full project report
 
-🚀 How to Explore the Project
-Clone the repo in VS Code
-Authenticate to your Salesforce org
-Use Org Browser: Focus on Metaddata View or SFDX: Deploy Source to Org
-Use App Launcher to open "HandsMen Threads"
-Place test orders and simulate stock drop to see automation
+[![Watch Demo](https://img.shields.io/badge/📽️%20Click%20Here-Watch%20Demo-success?style=for-the-badge)](https://drive.google.com/file/d/1ke3ElNlMFDCw2ti5cob9mrmOp20mVMEb/view)
